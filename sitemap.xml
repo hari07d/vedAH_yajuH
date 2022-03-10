@@ -30,7 +30,7 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/meta/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskaraH/gRhyam/meta/</loc>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/meta/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/aMshAH/</loc>
   </url><url>
@@ -168,8 +168,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/sarva-prastutiH/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarva-prastutiH/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/maitrAyaNIyam/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/</loc>
@@ -217,6 +215,8 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shulbam/sarva-prastutiH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/kAtyAyanaH/</loc>
+  </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/sarva-prastutiH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/</loc>
   </url><url>
@@ -858,7 +858,7 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/meta/oldenberg/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskaraH/gRhyam/meta/oldenberg/</loc>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/meta/oldenberg/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/tags/</loc>
   </url><url>
