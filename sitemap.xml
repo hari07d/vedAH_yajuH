@@ -194,8 +194,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/pAraskara-gRhyam/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/prakIrNam/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/1/</loc>
@@ -690,6 +688,8 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/sarva-prastutiH/06/</loc>
   </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/10/06/</loc>
+  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/01/06/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/02/06/</loc>
@@ -880,6 +880,8 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/sarva-prastutiH/10/</loc>
   </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/10/</loc>
+  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/10/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/visvaram/10/</loc>
@@ -899,6 +901,8 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/2/11/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/sarva-prastutiH/11/</loc>
+  </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/11/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/11/</loc>
   </url><url>
@@ -937,6 +941,8 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/maitrAyaNIyam/visvara-saMhitA/4/14/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/sarva-prastutiH/14/</loc>
+  </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/14/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/14/</loc>
   </url><url>
@@ -2324,10 +2330,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/5/agni-varaNam/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/agni-parishechanam/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/agnirAyuShmAn/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/agniveshya-grihya-sUtram/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/viShaya-vibhAgaH/kriyAH/agnihotram/</loc>
@@ -2394,12 +2396,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/viShaya-vibhAgaH/tattvAni/ashaucham/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/ashmArohaNam/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/ashvanAmAni/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/prakIrNam/tattvam/ashva-vishvam/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/shrAddham/aShTakA/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/meta/venkaTeshvaraH/aShTakA/</loc>
@@ -2439,8 +2435,6 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/dharmaH/AryAvartam/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/angAni/AlambhaH/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/Avartana_vartaya/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/tags/%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%83/</loc>
   </url><url>
@@ -2612,8 +2606,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/tags/%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A4%E0%A4%AE%E0%A5%8D/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/druho_munchAmi/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/tags/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%BF/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/prakIrNam/tattvam/dvitIyechChA/</loc>
@@ -2628,13 +2620,9 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/viShaya-vibhAgaH/tattvAni/dharme-pramANam/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/dhAtA_dadAtu/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_2_dhruva-vandanam/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/3/5/02/naxatriya-prajApatiH/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/namo_astu_sarpebhyaH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/tags/%E0%A4%A8%E0%A4%BE%E0%A4%AE/</loc>
   </url><url>
@@ -2681,8 +2669,6 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/viShaya-vibhAgaH/kriyAH/shaucham/parva/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/viShaya-vibhAgaH/tattvAni/parva/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/pashyema_sharadaH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/pAkayajJNaH/</loc>
   </url><url>
@@ -2854,8 +2840,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/39_medhA_devI/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/medhAn_te_devas/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/tags/%E0%A4%AE%E0%A5%88%E0%A4%A5%E0%A5%81%E0%A4%A8%E0%A4%AE%E0%A5%8D/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/viShaya-vibhAgaH/kriyAH/maithunam/</loc>
@@ -2950,8 +2934,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/kAThakam/vishvasRj-AkhyAna/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/vishvA_uta_tvayA/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/meta/haradatta-prakAshana-sUchanA/viShayAH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vivAhaH/viShNur_yonim/</loc>
@@ -3038,8 +3020,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/saMhitA/bhaTTa-bhAskara-bhAShyam/sampAdana-vichAraH/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/saMrAjan_cha/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/sarpa-baliH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/</loc>
@@ -3051,8 +3031,6 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/viShaya-vibhAgaH/kriyAH/sAnnAyyam/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/karmANi/sImantonnayanam/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/prakIrNam/sUtaka-homa-mantrAH/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/meta/sUtrANi/</loc>
   </url><url>
@@ -3339,8 +3317,6 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/gRhyam/sarva-prastutiH/2/01/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/kANvam/saMhitA/01/</loc>
-  </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/14/01/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/visvaram/01/01/</loc>
   </url><url>
@@ -8052,8 +8028,6 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/kANvam/saMhitA/14/</loc>
   </url><url>
-    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/14/</loc>
-  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/14/08/14/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/kAtyAyanaH/shrautam/mUlam/04/14/</loc>
@@ -10308,6 +10282,8 @@
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/sUtram/kAtyAyanaH/shrautam/mUlam/26/4/</loc>
   </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/10/06/4/</loc>
+  </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/3/4/4_jayAdiH_chittan_cha/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/kANvam/saMhitA/40/</loc>
@@ -10415,6 +10391,8 @@
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/gRhya-paribhAShA/2/5/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/gRhya-sheSha-sUtrANi/5/05/</loc>
+  </url><url>
+    <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/vishvAsa-prastutiH/10/06/5/</loc>
   </url><url>
     <loc>https://vishvAsa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/weber-srotaH/sasvaram/01/02/5/</loc>
   </url><url>
